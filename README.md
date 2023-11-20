@@ -2,7 +2,6 @@ Hi 👋 My name is Dmitry
 =======================
 
 * 🌍  I'm based in Saint Petersburg
-* 🧠  I'm learning django
 
 ### Skills
 
