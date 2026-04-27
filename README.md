@@ -19,6 +19,15 @@
 </p>
 
 <p align="center">
+  <a href="https://wakatime.com/@radlance">
+    <img src="https://wakatime.com/badge/user/018de172-b4b3-44be-a1df-f01ad0a4ce09.svg?style=for-the-badge&color=7C3AED&labelColor=2B114F" alt="Total time coded on WakaTime" />
+  </a>
+  <a href="https://wakatime.com/@radlance">
+    <img src="https://img.shields.io/badge/WakaTime-public%20profile-A855F7?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime profile" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Location-Saint%20Petersburg-3B1D78?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF" alt="Location" />
   <img src="https://img.shields.io/badge/Kotlin%20Focus-Android%20%7C%20Compose%20%7C%20KMP-5B21B6?style=for-the-badge&logo=kotlin&logoColor=F5F3FF" alt="Kotlin Focus" />
   <img src="https://img.shields.io/badge/2026%20Contributions-637-7C3AED?style=for-the-badge&logo=git&logoColor=F5F3FF" alt="Contributions" />
