@@ -24,37 +24,20 @@
   <img src="https://img.shields.io/badge/2026%20Contributions-637-7C3AED?style=for-the-badge&logo=git&logoColor=F5F3FF" alt="Contributions" />
 </p>
 
-## About
+## About me
 
-- Android developer working mostly with Kotlin and Jetpack Compose.
-- Interested in product-quality UI, realtime features, and practical backend support for mobile apps.
-- Exploring Compose Multiplatform where it gives real leverage.
-- Building things that are compact, fast, and implementation-focused.
+```kotlin
+val radlance = developer {
+    name = "Dmitry Manyakin"
+    role = MobileDeveloper
 
-## Tech Focus
-
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-2B114F?style=flat-square&logo=kotlin&logoColor=C4B5FD" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-2B114F?style=flat-square&logo=android&logoColor=C4B5FD" alt="Android" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-2B114F?style=flat-square&logo=jetpackcompose&logoColor=C4B5FD" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Compose%20Multiplatform-2B114F?style=flat-square&logo=kotlin&logoColor=C4B5FD" alt="Compose Multiplatform" />
-  <img src="https://img.shields.io/badge/Ktor-2B114F?style=flat-square&logo=ktor&logoColor=C4B5FD" alt="Ktor" />
-  <img src="https://img.shields.io/badge/Firebase-2B114F?style=flat-square&logo=firebase&logoColor=C4B5FD" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Coroutines-2B114F?style=flat-square&logo=kotlin&logoColor=C4B5FD" alt="Coroutines" />
-  <img src="https://img.shields.io/badge/Flow-2B114F?style=flat-square&logo=kotlin&logoColor=C4B5FD" alt="Flow" />
-  <img src="https://img.shields.io/badge/WebSockets-2B114F?style=flat-square&logo=socketdotio&logoColor=C4B5FD" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/TFLite-2B114F?style=flat-square&logo=tensorflow&logoColor=C4B5FD" alt="TFLite" />
-</p>
-
-## Featured Projects
-
-| Project | Focus |
-| --- | --- |
-| [KanbanBoards](https://github.com/radlance/KanbanBoards) | Compose, Firebase, realtime collaboration |
-| [TimesApp](https://github.com/radlance/TimesApp) | Android product app, services, Kotlin |
-| [ktor-messaging-api](https://github.com/radlance/ktor-messaging-api) | Ktor, REST API, backend for mobile |
-| [LanguageApp](https://github.com/radlance/LanguageApp) | Competition Android development |
-| [Matule](https://github.com/radlance/Matule) | Production-style Android delivery |
+    focus {
+        primary = listOf(Android, Kotlin, JetpackCompose)
+        strong = listOf(KMP, Ktor, Firebase)
+        interestedIn = listOf(RealtimeApps, AIApps, ProductDevelopment)
+    }
+}
+```
 
 ## Activity
 
