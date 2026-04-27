@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=radlance&style=for-the-badge&color=7C3AED&label=Profile%20Views" alt="Profile views" />
-</p>
-
-<p align="center">
   <a href="mailto:manyakindima@gmail.com">
     <img src="https://img.shields.io/badge/Email-manyakindima%40gmail.com-6B57FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -46,6 +42,7 @@ val radlance = developer {
 ## Activity
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=radlance&style=for-the-badge&color=7C3AED&label=Profile%20Views" alt="Profile views" />
   <a href="https://wakatime.com/@radlance">
     <img src="https://wakatime.com/badge/user/018de172-b4b3-44be-a1df-f01ad0a4ce09.svg?style=for-the-badge&color=7C3AED&labelColor=2B114F" alt="Total time coded on WakaTime" />
   </a>
