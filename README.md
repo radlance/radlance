@@ -7,6 +7,13 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=radlance&style=for-the-badge&color=7C3AED&label=Profile%20Views" alt="Profile views" />
+  <a href="https://wakatime.com/@radlance">
+    <img src="https://img.shields.io/badge/WakaTime-public%20profile-A855F7?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime profile" />
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:manyakindima@gmail.com">
     <img src="https://img.shields.io/badge/Email-manyakindima%40gmail.com-6B57FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -15,15 +22,6 @@
   </a>
   <a href="https://github.com/radlance">
     <img src="https://img.shields.io/badge/GitHub-radlance-2B114F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@radlance">
-    <img src="https://wakatime.com/badge/user/018de172-b4b3-44be-a1df-f01ad0a4ce09.svg?style=for-the-badge&color=7C3AED&labelColor=2B114F" alt="Total time coded on WakaTime" />
-  </a>
-  <a href="https://wakatime.com/@radlance">
-    <img src="https://img.shields.io/badge/WakaTime-public%20profile-A855F7?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime profile" />
   </a>
 </p>
 
@@ -49,6 +47,12 @@ val radlance = developer {
 ```
 
 ## Activity
+
+<p align="center">
+  <a href="https://wakatime.com/@radlance">
+    <img src="https://wakatime.com/badge/user/018de172-b4b3-44be-a1df-f01ad0a4ce09.svg?style=for-the-badge&color=7C3AED&labelColor=2B114F" alt="Total time coded on WakaTime" />
+  </a>
+</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=radlance&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4B5FD&text_color=DDD6FE&icon_color=A855F7&ring_color=A855F7&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
